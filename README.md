@@ -40,7 +40,6 @@ Developer Experience team
 - Standardization of security practices at Freshbooks by means of threat modeling and thinking security first.
 - Move to using cloud version of developer tools.
 - Incident commander handling service outage and coordinating across developer and customer support teams to get service back online.
-- Experience on reworking and rewriting bottle necks in code bases reducing tech debt.
 
 Worked with Python, Jenkins, Terraform, Google cloud tools, Artifactory, docker, GKE and Pact contract testing framework.
 
