@@ -2,7 +2,6 @@
 
 *Toronto, ON*  
 *josemanimala|at|gmail|dot|com*  
-*+1 (647) 770 2021*  
 
 ## Summary
 
