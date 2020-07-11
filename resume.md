@@ -4,7 +4,16 @@
 
 ### Work Experience
 
+#### Advent Global Solutions
 
+*Manager consulting*  
+*Jan 2012 – Aug 2012*  
+*Bangalore Area, India*  
+
+- Leading small team of developers and technical lead
+- Software Development and Services around OTRS ticketing system
+- Working exclusively on Web Technologies and Server infrastructure
+- Perl, Php, Jabber(Openfire), Ldap and Linux
 
 #### Wipro Technologies
 
