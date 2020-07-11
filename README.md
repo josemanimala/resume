@@ -1,8 +1,8 @@
 # Jose Mathew Manimala
 
 *Toronto, ON*  
-*josemanimala@gmail.com*  
-*+1(647) 770-2021*  
+*josemanimala|at|gmail|dot|com*  
+*+1 (647) 770 2021*  
 
 ## Summary
 
