@@ -1,16 +1,56 @@
-# Resume
+# Jose Mathew Manimala
 
-## two
+*Toronto, ON*  
+*josemanimala@gmail.com*  
+*+1(647) 770-2021*  
 
-### Work Experience
+## Summary
 
-#### Telus Inc
+I am a Software Engineer with experience leading/managing small agile software development teams.
+
+I have extensive experience with managing cloud environments using infrastructure as code and developer tooling using CI/CD best practices.
+Working primarily with Linux and *nix operating systems.
+
+I have in the past worked in technical presales, consulting, telecom and travel sectors solving different customer and technical challenges along the way.
+
+## Education
+
+*Bachelors - Computer Science and Engineering*  
+*Rajagiri School Of Engineering and Technology (MG University)*  
+*2004-2008*  
+
+## Work Experience
+
+### FreshBooks
+
+*Software Developer*
+*Sep 2019 – Present*
+*Toronto, Canada Area*
+
+Developer Experience team
+
+- CI/CD process improvements.
+- CI/CD tooling.
+- Identifying and solving problems that hinder shipping code to production.
+- Implementing Cloud native secrets manager solution for microservices.
+- Instituted monitoring and documentation process improvements across the board.
+- Implemented goalie program for the team.
+- Contract testing using pact framework.
+- Rolling out IAP architecture for dev tools for beyond corp.
+- Standardization of security practices at Freshbooks by means of threat modeling and thinking security first.
+- Move to using cloud version of developer tools.
+- Incident commander handling service outage and coordinating across developer and customer support teams to get service back online.
+- Experience on reworking and rewriting bottle necks in code bases reducing tech debt.
+
+Worked with Python, Jenkins, Terraform, Google cloud tools, Artifactory, docker, GKE and Pact contract testing framework.
+
+### Telus Inc
 
 *Senior Software Developer/ Team lead*  
 *Feb 2019 – Sep 2019*
 *Toronto, Canada Area*
 
-##### Network automation and analytics
+#### Network automation and analytics
 
 - Writing REST based api micro services in python3 for Network automation use cases.
 - Working on release engineering, CI/CD and Software delivery.
@@ -24,7 +64,7 @@ Worked with Python, fastapi, netflow and postgresql
 *Feb 2018 – Feb 2019*  
 *Toronto, Canada Area*  
 
-##### Infrastructure Orchestration
+#### Infrastructure Orchestration
 
 - Operationalize the Orchestrator and GVNFM in mano architecture.
 - Architect, design and implement deployment CI/CD pipeline, test pipeline, monitoring and logging infrastructure.
@@ -33,7 +73,7 @@ Worked with Python, fastapi, netflow and postgresql
 
 Worked with Python, perl, pytest, Ansible, terraform, Nokia CBAM/CBND, Openstack
 
-#### Concur
+### Concur
 
 *Software Design Engineer - Operations*  
 *Nov 2015 – Jan 2018*  
@@ -54,15 +94,15 @@ Worked with Python, perl, pytest, Ansible, terraform, Nokia CBAM/CBND, Openstack
 - Setup pagerduty and rolled out for the team.
 - Infrastructure as code.
 
-Worked with Clojure, Jenkins, Ansible, Shell, Python, Mysql, Elasticsearch 5.x, Luks/Linux, Monitoring using newrelic, AppDynamics. 
+Worked with Clojure, Jenkins, Ansible, Shell, Python, Mysql, Elasticsearch 5.x, Luks/Linux, Monitoring using newrelic, AppDynamics.
 
-#### Idea Device Pte Inc
+### Idea Device Pte Inc
 
 *Principal Consultant/ Devops Engineer*  
 *Aug 2013 – Oct 2015*  
 *Singapore*  
 
-##### Consulting
+#### Consulting
 
 - Technical Presales lead ASEAN region.
 - Customer consulting, Pre-sales and implementation of workflows for Epsilon.Orchestrator (similar to Ansible tower) supporting a team of consultants.
@@ -71,7 +111,7 @@ Worked with Clojure, Jenkins, Ansible, Shell, Python, Mysql, Elasticsearch 5.x, 
 - 3rd Level Engineer for customer issues.
   - Correctly collected bugs/issues/features from the customer and prioritised with Product manager and Development team.
 
-##### Devops Engineer
+#### Devops Engineer
 
 - Helped build internal data-center and networking between AWS, Hetzner and Bangalore office using custom site-to-site VPN. Enabled by Cyberoam over redundant internet links.
 - Helped build out customer demo infrastructure and demo workflows.
@@ -79,13 +119,13 @@ Worked with Clojure, Jenkins, Ansible, Shell, Python, Mysql, Elasticsearch 5.x, 
 
 Worked with many different technologies, Python, Ansible, Software Defined Networking, AWS, Perl, shell, Rest apis, Message queues etc.
 
-#### Langoor
+### Langoor
 
 *Senior Technology Guru and Infrastructure Lead*  
 *Aug 2012 – Aug 2013*  
 *Bangalore*
 
-##### Infrastructure Projects
+#### Infrastructure Projects
 
 - Setup Openvz based container infrastructure hosting.
 - Production Environment creation and Organisation.
@@ -103,7 +143,7 @@ Worked with many different technologies, Python, Ansible, Software Defined Netwo
 
 Worked on projects using Ruby, python, php, git, svn, openvz, fabric and linux.
 
-#### Advent Global Solutions
+### Advent Global Solutions
 
 *Manager consulting*  
 *Jan 2012 – Aug 2012*  
@@ -115,7 +155,7 @@ Worked on projects using Ruby, python, php, git, svn, openvz, fabric and linux.
 
 Worked on projects using Perl, Php, Jabber(Openfire), Ldap and Linux.
 
-#### Wipro Technologies
+### Wipro Technologies
 
 *Software Engineer*  
 *May 2011 – Dec 2011*  
@@ -129,7 +169,7 @@ Worked on projects using Perl, Php, Jabber(Openfire), Ldap and Linux.
 
 Worked on projects using php, perl, mysql and lots of opensource software.
 
-#### Citi Technology Services/ Wipro Technology Services
+### Citi Technology Services/ Wipro Technology Services
 
 *Systems Programmer*  
 *Aug 2008 – Mar 2010*  
@@ -145,3 +185,11 @@ Perl and Unix developer
 - Experience working with large database tables(Sybase).
 
 Worked on projects using Perl, Solaris, SOA and Sybase.
+
+## Opensource and Other contributions
+
+- Contributor Fedora Linux
+- Contributor Bodhi Linux
+- Contributor Wikipedia computing project
+
+I love open source software and encourage commiting and fixing bugs in projects which we use.
