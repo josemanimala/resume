@@ -31,14 +31,14 @@ Developer Experience team
 - CI/CD process improvements.
 - CI/CD tooling.
 - Identifying and solving problems that hinder shipping code to production.
-- Implementing Cloud native secrets manager solution for microservices.
+- Worked with team on implementing Cloud native secrets manager solution for microservices.
 - Instituted monitoring and documentation process improvements across the board.
-- Implemented goalie program for the team.
-- Contract testing using pact framework.
-- Rolling out IAP architecture for dev tools for beyond corp.
+- Helped mplement goalie program for the team.
+- Helped rolling out IAP architecture for dev tools for beyond corp.
 - Standardization of security practices at Freshbooks by means of threat modeling and thinking security first.
 - Move to using cloud version of developer tools.
 - Incident commander handling service outage and coordinating across developer and customer support teams to get service back online.
+- Experience with contract testing using pact framework.
 
 Worked with Python, Jenkins, Terraform, Google cloud tools, Artifactory, docker, GKE and Pact contract testing framework.
 
