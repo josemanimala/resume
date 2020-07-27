@@ -22,9 +22,9 @@ I have in the past worked in technical presales, consulting, telecom and travel 
 
 ### FreshBooks
 
-*Software Developer (Dev 3)*
-*Sep 2019 – Present*
-*Toronto, Canada Area*
+*Software Developer (Dev 3)*  
+*Sep 2019 – Present*  
+*Toronto, Canada Area*  
 
 Developer Experience team
 
@@ -45,8 +45,8 @@ Worked with Python, Jenkins, Terraform, Google cloud tools, Artifactory, docker,
 ### Telus Inc
 
 *Senior Software Developer/ Team lead*  
-*Feb 2019 – Sep 2019*
-*Toronto, Canada Area*
+*Feb 2019 – Sep 2019*  
+*Toronto, Canada Area*  
 
 #### Network automation and analytics
 
@@ -75,7 +75,7 @@ Worked with Python, perl, pytest, Ansible, terraform, Nokia CBAM/CBND, Openstack
 
 *Software Design Engineer - Operations (SDE3)*  
 *Nov 2015 – Jan 2018*  
-*Bangalore*
+*Bangalore*  
 
 - Ops Lead for Profile micro service.
 - Plan, Architect and Implement infrastructure features needed for Daily operation of Profile micro service.
@@ -121,7 +121,7 @@ Worked with many different technologies, Python, Ansible, Software Defined Netwo
 
 *Senior Technology Guru and Infrastructure Lead*  
 *Aug 2012 – Aug 2013*  
-*Bangalore*
+*Bangalore*  
 
 #### Infrastructure Projects
 
@@ -171,7 +171,7 @@ Worked on projects using php, perl, mysql and lots of opensource software.
 
 *Systems Programmer*  
 *Aug 2008 – Mar 2010*  
-*Taramani, Chennai*
+*Taramani, Chennai*  
 
 Perl and Unix developer
 
