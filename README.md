@@ -102,7 +102,7 @@ Worked with Clojure, Jenkins, Ansible, Shell, Python, Mysql, Elasticsearch 5.x, 
 
 #### Consulting
 
-- Technical Presales lead ASEAN region.
+- Technical Presales - ASEAN region.
 - Customer consulting, Pre-sales and implementation of workflows for Epsilon.Orchestrator (similar to Ansible tower) supporting a team of consultants.
 - Delivered many successful customer POC demos for onsite integration with customer systems.
 - In 1 short month did a successful POC for Singtel, elastic scaling of internet services for customers using software defined networking based on Juniper Contrail. (Support from some amazing folks in my team and from Juniper helped us deliver this.)
