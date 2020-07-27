@@ -22,7 +22,7 @@ I have in the past worked in technical presales, consulting, telecom and travel 
 
 ### FreshBooks
 
-*Software Developer*
+*Software Developer (Dev 3)*
 *Sep 2019 – Present*
 *Toronto, Canada Area*
 
@@ -73,7 +73,7 @@ Worked with Python, perl, pytest, Ansible, terraform, Nokia CBAM/CBND, Openstack
 
 ### SAP Concur
 
-*Software Design Engineer - Operations*  
+*Software Design Engineer - Operations (SDE3)*  
 *Nov 2015 – Jan 2018*  
 *Bangalore*
 
@@ -143,7 +143,7 @@ Worked on projects using Ruby, python, php, git, svn, openvz, fabric and linux.
 
 ### Advent Global Solutions
 
-*Manager consulting*  
+*Manager, consulting*  
 *Jan 2012 – Aug 2012*  
 *Bangalore Area, India*  
 
