@@ -71,7 +71,7 @@ Worked with Python, fastapi, netflow and postgresql
 
 Worked with Python, perl, pytest, Ansible, terraform, Nokia CBAM/CBND, Openstack
 
-### Concur
+### SAP Concur
 
 *Software Design Engineer - Operations*  
 *Nov 2015 – Jan 2018*  
@@ -113,7 +113,7 @@ Worked with Clojure, Jenkins, Ansible, Shell, Python, Mysql, Elasticsearch 5.x, 
 
 - Helped build internal data-center and networking between AWS, Hetzner and Bangalore office using custom site-to-site VPN. Enabled by Cyberoam over redundant internet links.
 - Helped build out customer demo infrastructure and demo workflows.
-- Management of all internal infrastructure and tools used by development team, sysadmin, network engineering and architectural charges.
+- Management of all internal infrastructure and tools used by development team, sysadmin, network engineering and architectural changes.
 
 Worked with many different technologies, Python, Ansible, Software Defined Networking, AWS, Perl, shell, Rest apis, Message queues etc.
 
