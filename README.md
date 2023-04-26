@@ -20,6 +20,32 @@ I have in the past worked in technical presales, consulting, telecom and travel 
 
 ## Work Experience
 
+### Amazon Web Services
+*Cloud Infrastructure Architect*
+*Jan 2023 - April 2023*
+*Toronto, Canada*
+
+- Customer consulting on Cloud migrations and net new cloud deployment efforts.
+- Part of the Federal Government facing professional services team.
+
+### Zendesk
+*Staff Software Engineer, Site Reliability Engineering*
+*Dec 2021 - Dec 2022*
+*Toronto, Canada Area*
+
+- Leading design, planning and development work relating to SRE practice.
+- Worked on improving the Datadog monitor framework used by Zendesk.
+- Worked on improving the established standard for Monitoring and metrics collection.
+
+### BorealisAI (RBC)
+*DevOps Engineer*
+*Oct 2020 - Nov 2021*
+*Toronto, Canada Area*
+
+- Working on setting up DevOps processes.
+- Operationalize and help deploy AI models to Production at RBC.
+- Hands on working with AI/ML model deployments to production.
+
 ### FreshBooks
 
 *Software Developer (Dev 3)*  
