@@ -1,219 +1,184 @@
 # Jose Mathew Manimala
 
-*Toronto, ON*  
-*josemanimala|at|gmail|dot|com*  
+Toronto, ON  
+josemanimala@gmail.com · [LinkedIn](https://www.linkedin.com/in/jmanimala)
+
+**Product Architect | Software Engineering, AI Platforms and Cloud Infrastructure**
 
 ## Summary
 
-I am a Software Engineer with experience leading/managing small agile software development teams.
+Software engineer and architect with experience building software, running production systems, and leading small development teams. Recent work includes an AI inference platform with durable processing, session state, and support for local and cloud models. Background spans cloud consulting, site reliability, developer tooling, and deploying machine learning models into production.
 
-I have extensive experience with managing cloud environments using infrastructure as code and developer tooling using CI/CD best practices.
-Working primarily with Linux and *nix operating systems.
+## Technical Skills
 
-I have in the past worked in technical presales, consulting, telecom and travel sectors solving different customer and technical challenges along the way.
+- **Languages:** Go, Python, Perl, Shell, PHP
+- **Cloud and infrastructure:** AWS, Google Cloud, Kubernetes, Docker, Linux, Unix, Terraform, Ansible
+- **AI and distributed systems:** Inference orchestration, MLOps, asynchronous APIs, durable messaging, recovery and idempotency
+- **Software delivery and operations:** CI/CD, automated testing, observability, incident response, infrastructure as code
 
-## Education
+## Experience
 
-*Bachelors - Computer Science and Engineering*  
-*Rajagiri School Of Engineering and Technology (MG University)*  
-*2004-2008*  
+### DoiT
 
-## Work Experience
+**Product Architect**  
+June 2026 – Present · Toronto, Canada
+
+- Designed and built an AI inference platform that turns conversational requests into structured intent and task context through an asynchronous API.
+- Built server-side orchestration for parallel inference stages, session ordering, conditional summaries, and validation of model outputs.
+- Implemented durable admission, checkpointing, and idempotent result handling so accepted work can recover after failures and reuse completed stages.
+- Added support for local and cloud models, with independently scalable workers and Kubernetes deployments.
+- Built privacy controls, operational metrics, and evaluation tooling to investigate failures and assess model behaviour.
+
+**Senior Cloud Architect**  
+May 2023 – June 2026 · Toronto, Canada
+
+- Worked with customers on cloud architecture and technical problems involving infrastructure, software, and system design.
 
 ### Amazon Web Services
-*Cloud Infrastructure Architect*
-*Jan 2023 - April 2023*
-*Toronto, Canada*
 
-- Customer consulting on Cloud migrations and net new cloud deployment efforts.
-- Part of the Federal Government facing professional services team.
+**Cloud Infrastructure Architect, Professional Services**  
+January 2023 – May 2023 · Toronto, Canada
+
+- Advised customers on cloud migrations and new cloud deployments.
+- Worked within the professional services team serving the Canadian federal government.
 
 ### Zendesk
-*Staff Software Engineer, Site Reliability Engineering*
-*Dec 2021 - Dec 2022*
-*Toronto, Canada Area*
 
-- Leading design, planning and development work relating to SRE practice.
-- Worked on improving the Datadog monitor framework used by Zendesk.
-- Worked on improving the established standard for Monitoring and metrics collection.
+**Staff Software Engineer, Site Reliability Engineering**  
+December 2021 – January 2023 · Toronto, Canada
 
-### BorealisAI (RBC)
-*DevOps Engineer*
-*Oct 2020 - Nov 2021*
-*Toronto, Canada Area*
+- Led design, planning, and development work within the SRE practice.
+- Improved the Datadog monitoring framework and standards for monitoring and metrics collection.
 
-- Working on setting up DevOps processes.
-- Operationalize and help deploy AI models to Production at RBC.
-- Hands on working with AI/ML model deployments to production.
+### Borealis AI at RBC
+
+**DevOps Engineer**  
+October 2020 – December 2021 · Toronto, Canada
+
+- Established DevOps processes supporting the deployment and operation of machine learning models.
+- Worked with teams to move AI models into production at RBC and support their ongoing operation.
 
 ### FreshBooks
 
-*Software Developer (Dev 3)*  
-*Sep 2019 – Present*  
-*Toronto, Canada Area*  
+**Software Developer, Developer Experience**  
+September 2019 – October 2020 · Toronto, Canada
 
-Developer Experience team
+- Improved CI/CD tooling and resolved problems that slowed software delivery.
+- Helped implement cloud secrets management for microservices and identity-aware access for developer tools.
+- Contributed to threat modelling, security practices, monitoring, and documentation improvements.
+- Served as incident commander during outages, coordinating engineering and customer support to restore service.
+- Worked with Pact for contract testing between services.
 
-- CI/CD process improvements.
-- CI/CD tooling.
-- Identifying and solving problems that hinder shipping code to production.
-- Worked with team on implementing Cloud native secrets manager solution for microservices.
-- Instituted monitoring and documentation process improvements across the board.
-- Helped mplement goalie program for the team.
-- Helped rolling out IAP architecture for dev tools for beyond corp.
-- Standardization of security practices at Freshbooks by means of threat modeling and thinking security first.
-- Move to using cloud version of developer tools.
-- Incident commander handling service outage and coordinating across developer and customer support teams to get service back online.
-- Experience with contract testing using pact framework.
+**Technologies:** Python, Jenkins, Terraform, Google Cloud, Artifactory, Docker, GKE, Pact
 
-Worked with Python, Jenkins, Terraform, Google cloud tools, Artifactory, docker, GKE and Pact contract testing framework.
+### TELUS
 
-### Telus Inc
+**Senior Software Developer and Team Lead — Network Automation and Analytics**  
+February 2019 – September 2019 · Toronto, Canada
 
-*Senior Software Developer/ Team lead*  
-*Feb 2019 – Sep 2019*  
-*Toronto, Canada Area*  
+- Built Python REST microservices for network automation and analytics.
+- Worked with product managers and stakeholders to translate requirements into development plans and technical designs.
+- Owned release engineering and CI/CD work for the team.
+- Mentored developers through code reviews, design discussions, and test-driven development.
 
-#### Network automation and analytics
+**Technologies:** Python, FastAPI, NetFlow, PostgreSQL
 
-- Writing REST based api micro services in python3 for Network automation use cases.
-- Working on release engineering, CI/CD and Software delivery.
-- Working with product management, stake holders and team to evaluate requirements and translate them into product roadmap/ development tasks.
-- Work on overall architecture and design of the solution.
-- Mentoring developers on writing better code, design paradigms and TDD.
+**Senior Software Developer — Infrastructure Orchestration**  
+February 2018 – February 2019 · Toronto, Canada
 
-Worked with Python, fastapi, netflow and postgresql
+- Operationalized network orchestration components within a management and orchestration platform.
+- Designed and implemented deployment pipelines, automated test pipelines, monitoring, and logging infrastructure.
+- Established development practices through code reviews, architecture documentation, and testing.
+- Started a lunch-and-learn series with technical talks and workshops.
 
-*Senior Software Developer*  
-*Feb 2018 – Feb 2019*  
-*Toronto, Canada Area*  
-
-#### Infrastructure Orchestration
-
-- Operationalize the Orchestrator and GVNFM in mano architecture.
-- Architect, design and implement deployment CI/CD pipeline, test pipeline, monitoring and logging infrastructure.
-- Setup software development best practices for the automation projects. Do Code review, architecture diagrams etc.
-- Instituted the Lunch and Learn series of talks, workshops for driving innovation within the team.
-
-Worked with Python, perl, pytest, Ansible, terraform, Nokia CBAM/CBND, Openstack
+**Technologies:** Python, Perl, pytest, Ansible, Terraform, Nokia CBAM/CBND, OpenStack
 
 ### SAP Concur
 
-*Software Design Engineer - Operations (SDE3)*  
-*Nov 2015 – Jan 2018*  
-*Bangalore*  
+**Software Design Engineer, Operations**  
+November 2015 – January 2018 · Bangalore, India
 
-- Ops Lead for Profile micro service.
-- Plan, Architect and Implement infrastructure features needed for Daily operation of Profile micro service.
-- Maintain all infrastructure necessary for CI and CD to deploy the micro service to production. Jenkins Pipeline, Ansible and Shell.
-- Write and maintain shell/python based tooling required to orchestrate AWS and Internal Cloud self service APIs.
-- Regular sprint code reviews and contribute to any necessary inputs needed for infrastructure changes.
-- Experience with troubleshooting incidents in production environments.
-- Experience working with Percona MySql, building out Elastic search infrastructure cluster for Profile-search microservice.
-- Implement monitoring, alerting and mitigation to prevent downtime using AppDynamics and Newrelic.
-- Went through platform redesign and standardization for GDPR, to analyze and fix IT Risk.
-- Build out new datacenters for the micro service as needed by product.
-- Implemented canary deployments with support for multiple operating clusters.
-- Helped with Newrelic and ELK stack based log framework used for profiling and error handling.
-- Setup pagerduty and rolled out for the team.
-- Infrastructure as code.
+- Led operations for the Profile microservice, including infrastructure design, production troubleshooting, and expansion into new data centres.
+- Built and maintained CI/CD pipelines and infrastructure automation using Jenkins, Ansible, Python, and Shell.
+- Implemented canary deployments across multiple operating clusters.
+- Built Elasticsearch infrastructure for profile search and worked with Percona MySQL systems.
+- Implemented monitoring, alerting, and logging using AppDynamics, New Relic, and the ELK stack. Rolled out PagerDuty for the team.
+- Contributed to platform redesign and infrastructure risk remediation for GDPR requirements.
 
-Worked with Clojure, Jenkins, Ansible, Shell, Python, Mysql, Elasticsearch 5.x, Luks/Linux, Monitoring using newrelic, AppDynamics.
+**Technologies:** AWS, Clojure, Jenkins, Ansible, Python, Shell, MySQL, Elasticsearch, Linux
 
-### Idea Device Pte Inc
+### Idea Device
 
-*Principal Consultant/ Devops Engineer*  
-*Aug 2013 – Oct 2015*  
-*Singapore*  
+**Principal Consultant and DevOps Engineer**  
+August 2013 – October 2015 · Singapore
 
-#### Consulting
+- Delivered technical presales, customer proofs of concept, and orchestration integrations across the ASEAN region.
+- Worked with consultants and customer teams to implement automation workflows and integrate with existing systems.
+- Delivered a Singtel proof of concept for elastic service scaling using software-defined networking and Juniper Contrail.
+- Handled escalated customer issues and worked with product managers and developers to prioritize fixes and features.
+- Built customer demo environments and infrastructure connecting AWS, Hetzner, and office networks through site-to-site VPNs.
 
-- Technical Presales - ASEAN region.
-- Customer consulting, Pre-sales and implementation of workflows for Epsilon.Orchestrator (similar to Ansible tower) supporting a team of consultants.
-- Delivered many successful customer POC demos for onsite integration with customer systems.
-- In 1 short month did a successful POC for Singtel, elastic scaling of internet services for customers using software defined networking based on Juniper Contrail. (Support from some amazing folks in my team and from Juniper helped us deliver this.)
-- 3rd Level Engineer for customer issues.
-  - Correctly collected bugs/issues/features from the customer and prioritised with Product manager and Development team.
-
-#### Devops Engineer
-
-- Helped build internal data-center and networking between AWS, Hetzner and Bangalore office using custom site-to-site VPN. Enabled by Cyberoam over redundant internet links.
-- Helped build out customer demo infrastructure and demo workflows.
-- Management of all internal infrastructure and tools used by development team, sysadmin, network engineering and architectural changes.
-
-Worked with many different technologies, Python, Ansible, Software Defined Networking, AWS, Perl, shell, Rest apis, Message queues etc.
+**Technologies:** Python, Ansible, AWS, Perl, Shell, REST APIs, message queues, software-defined networking
 
 ### Langoor
 
-*Senior Technology Guru and Infrastructure Lead*  
-*Aug 2012 – Aug 2013*  
-*Bangalore*  
+**Senior Technology Guru and Infrastructure Lead**  
+August 2012 – August 2013 · Bangalore, India
 
-#### Infrastructure Projects
+- Led application development and infrastructure work for customer projects, including Autogenie and Healtheminds.
+- Built Linux container hosting and designed server and storage infrastructure for new services.
+- Automated operations using Shell, Python, and Perl.
+- Migrated internal source repositories from SVN to Git.
 
-- Setup Openvz based container infrastructure hosting.
-- Production Environment creation and Organisation.
-- Create cost structure for customer infrastructure.
-- Automation of systems using shell, python and perl.
-- Designing scalable server and data storage architectures for deployment of new products and services.
-- Migrated internal svn based code repo to git.
-
-#### Services projects
-
-- Full stack engineer.
-- Architect for various project.
-- Technical lead (Autogenie, Healtheminds).
-- Working on innovating new product ideas at Langoor.
-
-Worked on projects using Ruby, python, php, git, svn, openvz, fabric and linux.
+**Technologies:** Ruby, Python, PHP, Linux, OpenVZ, Fabric, Git
 
 ### Advent Global Solutions
 
-*Manager, consulting*  
-*Jan 2012 – Aug 2012*  
-*Bangalore Area, India*  
+**Manager, Consulting**  
+January 2012 – August 2012 · Bangalore, India
 
-- Leading small team of developers and technical lead.
-- Software Development and Services around OTRS ticketing system.
-- Working exclusively on Web Technologies and Server infrastructure.
+- Led a small development team delivering software and services around the OTRS ticketing system.
+- Worked on web applications, integrations, and the supporting server infrastructure.
 
-Worked on projects using Perl, Php, Jabber(Openfire), Ldap and Linux.
+**Technologies:** Perl, PHP, Openfire, LDAP, Linux
 
 ### Wipro Technologies
 
-*Software Engineer*  
-*May 2011 – Dec 2011*  
-*Electronic City, Bangalore*  
+**Software Engineer**  
+May 2011 – December 2011 · Bangalore, India
 
-- Implemented a custom media platform for internal employee contests which were part of Citibank’s 200 year anniversary.
-  - The platform handled large image formats and video uploads.
-  - The platform used SAML based SSO.
-  - The team and platform received excellence award for completion of the project on time.
-- Implemented a custom nginx gateway for throttling api requests using nginx and openresty.
+- Built an internal media platform for Citibank employee contests, supporting large image and video uploads with SAML single sign-on.
+- Received a team excellence award for delivering the platform on schedule.
+- Implemented an API throttling gateway using Nginx and OpenResty.
 
-Worked on projects using php, perl, mysql and lots of opensource software.
+**Technologies:** PHP, Perl, MySQL, Nginx, OpenResty
 
-### Citi Technology Services/ Wipro Technology Services
+### Citi Technology Services / Wipro Technology Services
 
-*Systems Programmer*  
-*Aug 2008 – Mar 2010*  
-*Taramani, Chennai*  
+**Systems Programmer**  
+August 2008 – March 2010 · Chennai, India
 
-Perl and Unix developer
+- Developed Perl REST web services and maintained tools for global Unix software packaging and deployment.
+- Automated Solaris package installation and worked with RPM and Solaris packaging.
+- Maintained web tooling and Unix infrastructure supporting software distribution.
+- Worked on Sybase database installation, migration, and development.
 
-- Maintain the web environment and tool sets used for packaging software.
-- Hands on with rpm, solaris packaging.
-- Packaging and automation of Solaris package install system.
-- Experience working with Unix(Solaris), Webservices, file system db formats(gnudb) and nfs configuration.
-- Experience writing high performance Perl restful web services.
-- Experience working with large database tables(Sybase).
+**Technologies:** Perl, Solaris, Unix, Sybase, NFS, web services
 
-Worked on projects using Perl, Solaris, SOA and Sybase.
+## Certifications
 
-## Opensource and Other contributions
+- AWS Certified DevOps Engineer – Professional
+- AWS Certified Solutions Architect – Professional
+- AWS Certified Generative AI Developer – Professional Early Adopter
 
-- Contributor Fedora Linux
-- Contributor Bodhi Linux
-- Contributor Wikipedia computing project
+## Education
 
-I love open source software and encourage commiting and fixing bugs in projects which we use.
+**Bachelor of Technology in Computer Science and Engineering**  
+Rajagiri School of Engineering and Technology, MG University  
+2004 – 2008
+
+## Open Source Contributions
+
+- Contributed to Fedora Linux and Bodhi Linux.
+- Contributed to Wikipedia computing articles.
+- Submit bug fixes and patches upstream to projects used in day-to-day work.
